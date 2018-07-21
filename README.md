@@ -22,3 +22,11 @@ FNTrackerRefresh.exe install
 1. Windows Key + R
 2. Type in `shell:startup` and hit enter
 3. Find `FNTrackerRefresh.exe` in the folder that just opened and delete it
+
+
+### How to Close/Exit
+
+1. Hit Ctrl+Shift+Esc to open task manager (or open it any other way)
+2. Find FNTrackerRefresh.exe, select it and hit "end task"
+
+Note: if you chose to install, this will only apply until next restart.
